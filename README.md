@@ -1,2 +1,5 @@
 # Medical-Abstracts-segmentation-using-tensorflow
-This projects uses a  deep learning model created using TensorFlow and Natural Language Processing (NLP) techniques to segment the abstract of a medical research paper into sections such as objevtives, methods, background and conclusions
+This projects uses a  deep learning model created using TensorFlow and Natural Language Processing (NLP) techniques to segment the abstract of a medical research paper into sections such as objevtives, methods, background and conclusions.
+**Tensorboard Link for modelling experiments comparisions**
+https://tensorboard.dev/experiment/ulX1DpmrSjmfpJmV0Iy8rw/#scalars&runSelectionState=eyJNb2RlbF80X3Rva2VuX2NoYXJfdG9rZW4vMjAyMzA3MTAtMDg0OTA1L3RyYWluIjp0cnVlLCJNb2RlbF81X3Rva2VuX2NoYXJfdG9rZW5fcG9zX2VtYmVkZGluZ3MvMjAyMzA3MTAtMTEwOTM5L3ZhbGlkYXRpb24iOmZhbHNlLCJNb2RlbF81X3Rva2VuX2NoYXJfdG9rZW5fcG9zX2VtYmVkZGluZ3MvMjAyMzA3MTAtMTEwOTM5L3RyYWluIjpmYWxzZSwiTW9kZWxfNV90b2tlbl9jaGFyX3Rva2VuX3Bvc19lbWJlZGRpbmdzLzIwMjMwNzEwLTExMDg0My90cmFpbiI6ZmFsc2UsIk1vZGVsXzVfdG9rZW5fY2hhcl90b2tlbl9wb3NfZW1iZWRkaW5ncy8yMDIzMDcxMC0xMTA3MDAvdmFsaWRhdGlvbiI6ZmFsc2UsIk1vZGVsXzVfdG9rZW5fY2hhcl90b2tlbl9wb3NfZW1iZWRkaW5ncy8yMDIzMDcxMC0xMTA3MDAvdHJhaW4iOmZhbHNlfQ%3D%3D
+
